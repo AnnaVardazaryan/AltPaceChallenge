@@ -5,7 +5,9 @@ This repository contains a machine learning project aimed at predicting the sale
 The dataset provides insights into the impact of product pricing, discounts, and store locations on sales volumes.
 
 **Dataset**
+
 The dataset comprises several features, each providing insights into different aspects of sales:
+
 **1.ID**: A unique identifier for each sale record.
 **2.Store ID**: An identifier representing different store locations.
 **3.Total Price**: The final price of the product, accounting for any discounts.
@@ -13,6 +15,7 @@ The dataset comprises several features, each providing insights into different a
 **5.Units Sold**: The number of units of the product sold.
 
 **Workflow**
+
 **Data Loading**: Data was fetched directly from a provided URL and loaded into a DataFrame.
 **Data Exploration**: Undertook preliminary data exploration to understand the nature and structure of the data.
 **Data Cleaning**: Identified and treated missing values and checked for duplicates.
