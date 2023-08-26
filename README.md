@@ -7,6 +7,7 @@ to obtain the best predictive model.
 
 
 
+
 **Features Description**
 
 **1.Age**: Numeric representation of the age of the candidate.
@@ -29,6 +30,7 @@ to obtain the best predictive model.
 
 
 
+
 **Workflow**
 
 **1.Importing Libraries**: Necessary Python libraries for data manipulation, visualization, and modeling were imported.
@@ -41,7 +43,9 @@ Applied necessary preprocessing techniques like one-hot encoding.
 
 
 
+
 **Conclusion**
+
 After conducting extensive analyses and testing multiple classification models, the Random Forest classifier emerged as the most 
 suitable choice for predicting whether a candidate was accepted for an interview based on the given features. This decision was 
 informed by the model's robustness, ability to handle imbalances, and superior performance metrics.
