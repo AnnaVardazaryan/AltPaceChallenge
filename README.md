@@ -24,6 +24,7 @@ The Titanic dataset contains several features that provide information about pas
 **7.Embarked**: The port at which the passenger boarded the ship (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 **Workflow**
+
 **1.Data Loading**: Dataset was obtained from Kaggle.
 
 **2.Data Exploration**: Undertook preliminary data exploration to understand the nature and structure of the data.
