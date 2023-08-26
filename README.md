@@ -1,10 +1,12 @@
 **Product Demand Prediction Project**
 
 
+
 **Overview**
 
 This repository contains a machine learning project aimed at predicting the sales (Units Sold) of products based on various features.
 The dataset provides insights into the impact of product pricing, discounts, and store locations on sales volumes.
+
 
 
 **Dataset**
@@ -20,6 +22,7 @@ The dataset comprises several features, each providing insights into different a
 **4.Base Price**: The original price of the product before any discounts.
 
 **5.Units Sold**: The number of units of the product sold.
+
 
 
 **Workflow**
@@ -39,6 +42,7 @@ The dataset comprises several features, each providing insights into different a
 **Evaluation**: Assessed model performance using metrics such as MAE, MSE, and R-squared.
 
 **Conclusion**: Summarized key findings and determined the best performing model based on the evaluation metrics.
+
 
 
 **Key Findings**
